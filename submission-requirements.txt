@@ -1,0 +1,30 @@
+
+
+Outline:
+1. Cover Page - title, name, date
+2. Executive Summary
+3. Table of Contents
+4. Introduction
+5. Methodology
+6. Results
+7. Discussion
+8. Conclusion
+9. Index
+
+
+Requirements:
+1.1: Upload the GitHub URL of the project (1 point)
+1.2: Upload the completed presentation slides in PDF format (1 point)
+1.3: The Executive Summary slide clearly summarize the methods used and the key results (1 point)
+1.4: The Introduction slide explains the project background and clearly states the problem (1 point)
+1.5: The Data Collection - SpaceX API slide shows API calls using flowcharts or key phrases and includes the GitHub URL. (1 point)
+1.7: The Data Wrangling Methodology slide explains data cleaning and processing and includes the GitHub URL (1 point)
+1.8: The EDA with Data Visualization slide summarizes the charts used, explains their purpose, and includse the GitHub URL (1 point)
+1.9: The EDA with SQl slide summarizes the SQL queries performed and includes the GitHub URL (1 point)
+1.10: THe Interactive Visual Analytics slide summarizes the Folium amp and Plogly Dash app and includes the GitHub URLs (1 point)
+1.11: Completed all required EDA visualization result slides, including scatter plots, bar charts, and yearly trends (1 point)
+1.12: Completed all required EDA with SQL result slides, covering launch sites, payloads, success rates, rankings, and time analysis (1 point)
+1.13: Completed the Folium map slides with launch site markers, launch records, and proximity anlaysis (1 point)
+1:14: Completed the Plotly Dash slides with success pie charts and payload versus launch outcome scatter plots (1 point)
+1:15: Complete the Predictive analysis slides with multiple models, evaluatoin results, confusion matrix, best model explanation, and clear conclusion with creative and innovative insights (1 point)
+
